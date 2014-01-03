@@ -1,7 +1,9 @@
-# Seattle iOS Developers Resources
+# Seattle iOS Developers Meetup
+
+##Developer Resourses
 
 
-##Email Newsletters/Blogs
+###Email Newsletters/Blogs
 * [iOS Dev Weekly](http://iosdevweekly.com/) - A weekly newsletter that covers a broad range of iOS topics from new frameworks, app marketing, iOS news, new tools for developers etc. 
 * [Objc.io](http://www.objc.io/) - A fantastic technical resource. These guys dive deep into various pieces of the iOS SDK each week. 
 * [Bennedict Evans](http://ben-evans.com/newsletter/) - Fantastic analyis of the mobile space as a whole from more of a business perspective.
