@@ -13,11 +13,11 @@
 * [NSHipster](http://nshipster.com/) - The author, Mattt Thompson, is as about as close to a iOS celebrity as you can get. Known for publishing great resources such as AFNetworking and PostgresApp, Mattt takes a weekly opportunity to dive into the less familiar corners of Objective-C and iOS through his blog NSHipster. 
 * [Cocoa With Love](http://www.cocoawithlove.com/) - Matt Gallagher’s blog that is filled with excellent design patterns that solve all types of common iOS programming problems.
 
-##Tutorials
+###Tutorials
 * [Ray Wenderlich](http://www.raywenderlich.com/) - A fantastic resource with a wealth of tutorials for a broad spectrum of features and functionality.
 * [Stanford's CS193](https://itunes.apple.com/us/course/coding-together-developing/id593208016) - From start to finish, Paul Hegarty though building iOS applications for the first time. This course is not for the weak of heart, it is a fast and thorough dive into iOS programming. 
 * [AppCoda](http://www.appcoda.com/) - 
 
-##User Interface
+###User Interface
 * [Cocoa Controls](https://www.cocoacontrols.com/) - Solid resource for UIControls and many other iOS UI pieces. 
 
